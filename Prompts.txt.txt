@@ -1,0 +1,18 @@
+Prompts
+
+Prompts Used
+1. How do I make a menu-driven 2D graphics editor in C using a 2D character array?
+2. Give me the basic structure for the project and the functions I will need.
+3. How can I draw a rectangle, line, triangle, and circle using * characters in C?
+4. How do I display a 2D character array as a drawing canvas?
+5. How can I add, delete, and modify shapes in the canvas?
+6. Show me an example menu using switch-case for this project.
+7. How should I organize the code into functions?
+8. Give me ideas to improve the project and get full marks.
+9. Generate a README file for this project.
+10. How do I add a README file to my GitHub repository?
+11. How do I find my project folder and push my code to GitHub?
+12. What do errors like "command not found" and "too many arguments" mean in Git Bash?
+13. How do I commit and push changes from VS Code to GitHub?
+14. What should I submit as my GitHub repository link for the assignment?
+
